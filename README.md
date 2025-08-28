@@ -1,2 +1,2 @@
 # Model-from-Scratch
-Linear Regression -- linearRegFromScratch.ipynb
+Linear Regression -- LinearRegFromScratch.ipynb
