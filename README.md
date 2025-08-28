@@ -1,1 +1,1 @@
-# Mode-from-Scratch
+# Model-from-Scratch
